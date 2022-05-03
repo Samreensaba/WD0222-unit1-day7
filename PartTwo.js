@@ -5,8 +5,9 @@
  The choice should be made based on the value of another variable called isMale.
 */
 
-/* var gender = male? "Male" : "Female"
-console.log("Gender is" gender) */
+/* let isMale = true
+var gender = isMale? "male" : "female";
+console.log("Gender is", gender) */
 
 /* EXTRA 2
  Write a piece of code for checking if, given two integers, the value of one of them is 8 or if their addition or subtraction is equal to 8.
@@ -54,35 +55,36 @@ console.log(FullName) */
  (Ex.: the 20% of 400 is 80)
 */
 
-/* Console.log(" The 20% of 400 is", 400 % 20) */
+/* console.log("The 20% of 400 is", 400 % 20) */
 
 /* EXTRA 9
  Write a piece of code for checking if a given number is even or odd.
 */
 
 /* let x = 3
-if (X%2 === 0){
+if (x % 2 === 0){
     console.log("The number is Even");
 }
 else{
-    console.log("The number is Odd")
+    console.log("The number is Odd");
 }
 */
 
 /* WHEN YOU ARE FINISHED
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
 */
-var gender = male? "male" : "female";
+let isMale = true
+var gender = isMale? "male" : "female";
 console.log("Gender is", gender)
 let name1 = "John"
 let name2 = "Bosco"
-let FullName = name1+nam2
+let FullName = name1 + name2
 console.log(FullName)
-Console.log(" The 20% of 400 is", 400 % 20)
+console.log("The 20% of 400 is", 400 % 20)
 let x = 3
-if (X%2 === 0){
+if (x % 2 === 0){
     console.log("The number is Even");
 }
 else{
-    console.log("The number is Odd")
+    console.log("The number is Odd");
 }

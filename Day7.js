@@ -69,6 +69,36 @@ console.log("Is name1 and name2 same?", name1 === name2.toLowerCase()) */
 */
 
 /* let x = 8
+if (x === 1){
+    console.log("one");
+}
+else if(x === 2){
+    console.log("two");
+}
+else if(x=== 3){
+    console.log("three");
+}
+else if(x=== 4){
+    console.log("four");
+}
+else if(x=== 5){
+    console.log("five");
+}
+else if(x=== 6){
+    console.log("six");
+}
+else if(x=== 7){
+    console.log("seven");
+}
+else if(x=== 8){
+    console.log("eight");
+}
+else if(x=== 9){
+    console.log("nine");
+}
+else if(x=== 10){
+    console.log("ten");
+}
  */
 
 /* EXERCISE 9
@@ -92,7 +122,7 @@ console.log(ModelEligibility) */
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
 */
 console.log(12 + 20)
-let x = 12
+/*let x = 12
 console.log(x)
 let name = "John Doe"
 console.log(name)
@@ -102,7 +132,38 @@ let name2
 name1= "john"
 name2= "John"
 console.log("Is name1 and name2 same?", name1 === name2)
-console.log("Is name1 and name2 same?", name1 === name2.toLowerCase())
+console.log("Is name1 and name2 same?", name1 === name2.toLowerCase())*/
+let x = 8
+if (x === 1){
+    console.log("one");
+}
+else if(x === 2){
+    console.log("two");
+}
+else if(x=== 3){
+    console.log("three");
+}
+else if(x=== 4){
+    console.log("four");
+}
+else if(x=== 5){
+    console.log("five");
+}
+else if(x=== 6){
+    console.log("six");
+}
+else if(x=== 7){
+    console.log("seven");
+}
+else if(x=== 8){
+    console.log("eight");
+}
+else if(x=== 9){
+    console.log("nine");
+}
+else if(x=== 10){
+    console.log("ten");
+}
 let Age = 30
 let ModelElg
 if (Age >= 30){
